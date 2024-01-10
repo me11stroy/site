@@ -1,1 +1,4 @@
-https://www.figma.com/file/niLCTb8aWPles30nHv0iMB/Web-Studio-(Version-5.0)-(Copy)?type=design&node-id=0-1&mode=design СЮДИИИИИИИИИИИИ СИЛЛЛЛЛЛЛЛЛЛКУУУУУУУУУУУУУУУУУУ
+https://www.figma.com/file/niLCTb8aWPles30nHv0iMB/Web-Studio-(Version-5.0)-(Copy)?type=design&node-id=0-1&mode=design СЮДИИИИИИИИИИИИ СИЛЛЛЛЛЛЛЛЛЛКУУУУУУУУУУУУУУУУУУ НА ПЕРШУ СТРІЧКУ ЯКЩО ХОЧЕШ ЩОБ ВОНО ПЕРЕХОДИЛО А НЕ ВСТАВЛЯТИ ПИШЕШ ТАК:
+
+<a href="https://yourwebsite.com">https://www.figma.com/file/niLCTb8aWPles30nHv0iMB/Web-Studio-(Version-5.0)-(Copy)?type=design&node-id=0-1&mode=design</a>
+
