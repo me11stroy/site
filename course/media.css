@@ -1,0 +1,812 @@
+@media screen and (max-width:1200px) {
+   .man img {
+      width: 550px;
+   }
+
+   .container_info {
+      padding: 40px;
+   }
+
+   .images_nav {
+      margin-top: 160px;
+   }
+
+   .meow li {
+      padding: 24px 30px;
+   }
+
+   .clean_card,
+   .tone_card,
+   .soft_card {
+      width: 345px;
+   }
+
+   .clean_card img,
+   .tone_card img,
+   .soft_card img {
+      width: 345px;
+   }
+
+   .price {
+      gap: 158px;
+   }
+
+   .moo {
+      width: 345px;
+   }
+
+   .moo a {
+      padding: 15px 85px;
+   }
+
+   .first_top {
+      height: 266px;
+   }
+
+   .second_top {
+      height: 288px;
+   }
+
+   .third_top {
+      height: 245px;
+   }
+
+   .first_bottom {
+      height: 266px;
+   }
+
+   .second_bottom {
+      height: 308px;
+   }
+
+   .third_bottom {
+      height: 245px;
+   }
+
+   .plus {
+      gap: 58px;
+   }
+
+   .plus_dva {
+      gap: 195px;
+   }
+
+   .plus_tri {
+      gap: 80px;
+   }
+
+   .plus_four {
+      gap: 103px;
+   }
+
+   .plus_five {
+      gap: 61px;
+   }
+
+   .knopka_blog {
+      gap: 175px;
+   }
+
+   .choo {
+      width: 350px;
+   }
+
+   .image,
+   .image_2,
+   .image_3 {
+      width: 350px;
+      padding: 24px 180px 218px 24px;
+   }
+
+   .carousel_img img {
+      width: 180px;
+   }
+
+   .carousel_img img:first-child {
+      width: 180px;
+      height: 180px;
+   }
+
+   .carousel_img img:last-child {
+      width: 15px;
+      height: 180px;
+   }
+
+   .whole {
+      gap: 65px;
+   }
+
+   input {
+      width: 216px;
+   }
+
+   .for_two {
+      gap: 704px;
+   }
+
+
+}
+
+
+
+/* 2 */
+@media screen and (max-width: 992px) {
+   .text {
+      display: flex;
+      flex-direction: column;
+   }
+
+   .menu_list {
+      display: flex;
+      justify-content: center;
+   }
+
+   .cart {
+      display: flex;
+   }
+
+   .choice {
+      display: flex;
+      justify-content: center;
+      padding: 12px 0 0 0;
+   }
+
+   .general_info {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+   }
+
+   .man {
+      display: flex;
+      justify-content: center;
+   }
+
+   .ul_meow {
+
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      gap: 10px;
+   }
+
+   .meow li {
+      margin-top: 10px;
+   }
+
+   .small_cards {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .big_cards {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .points {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .point_1 {
+      margin: 50px 0;
+   }
+
+   .oil_face {
+      padding: 30px 5px;
+   }
+
+   .oil_face p {
+      width: 320px;
+   }
+
+   .body_skin {
+      padding: 50px 5px;
+   }
+
+   .woman {
+      height: 400px;
+   }
+
+   .first_top,
+   .third_bottom {
+      height: 288px;
+   }
+
+   .second_top,
+   .second_bottom,
+   .first_bottom {
+      height: 350px;
+   }
+
+   .third_top {
+      height: 308px;
+   }
+
+   .plus {
+      gap: 144px;
+   }
+
+   .plus_dva {
+      gap: 120px;
+   }
+
+   .plus_tri,
+   .plus_four {
+      gap: 90px;
+   }
+
+   .plus_five {
+      gap: 94px;
+   }
+
+   .knopka_blog {
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+      gap: 50px;
+   }
+
+   .photo_info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .carousel_img {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+   }
+
+   .carousel_img img:first-child {
+      width: 275px;
+      height: 275px;
+   }
+
+   .carousel_img img:nth-child(4) {
+      margin-left: 85px;
+   }
+
+   .carousel_img img:nth-child(5) {
+      margin-right: 85px;
+   }
+
+   .carousel_img img:last-child {
+      display: none;
+   }
+
+   .carousel_img img {
+      width: 275px;
+   }
+
+   .whole {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 65px;
+   }
+
+   .links {
+      gap: 55px;
+   }
+
+   .for_two {
+      gap: 500px;
+   }
+}
+
+/* 3 */
+@media screen and (max-width:768px) {
+   .story {
+      margin: 150px -5px;
+   }
+
+   .products_info h2 {
+      margin: 14px 70px 80px 80px;
+   }
+
+   .woman {
+      width: 370px;
+      height: 300px;
+      margin-top: 40px;
+   }
+
+   .oil_face {
+      margin-left: 60px;
+   }
+
+   .body_skin {
+      margin-right: 60px;
+   }
+
+   .first_for_skin {
+      margin-bottom: 120px;
+   }
+
+   .top,
+   .bottom {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+   }
+
+   .first_top,
+   .third_top,
+   .third_bottom {
+      height: 225px;
+   }
+
+   .second_top,
+   .second_bottom {
+      height: 267px;
+   }
+
+   .first_bottom {
+      height: 245px;
+   }
+
+   .chiinaa {
+      gap: 45px;
+   }
+
+   .knopka_blog {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 50px;
+   }
+
+   .our_blog {
+      width: 680px;
+   }
+
+   .posts a {
+      margin-left: 260px;
+   }
+
+   .carousel_img img:nth-child(4) {
+      margin: 0;
+   }
+
+   .carousel_img {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+   }
+
+   .carousel_img img:first-child {
+      width: 374px;
+      height: 374px;
+   }
+
+   .carousel_img img {
+      width: calc(50% - 10px);
+      max-width: 100%;
+      height: auto;
+      box-sizing: border-box;
+      margin-bottom: 10px;
+   }
+
+   .carousel_img img:nth-child(5) {
+      margin: 0 auto;
+      display: block;
+      width: 50%;
+      max-width: 100%;
+   }
+
+   .carousel_img img:last-child {
+      display: none;
+   }
+
+   .forum {
+      padding-left: 56px;
+   }
+
+   .links {
+      gap: 30px;
+   }
+
+   .for_two {
+      gap: 255px;
+   }
+}
+
+/* 4 */
+@media screen and (max-width:576px) {
+   .menu_list {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+
+   .list {
+      margin-bottom: 30px;
+   }
+
+   .man img {
+      width: 576px;
+   }
+
+   .story_1 p {
+      width: 365px;
+      margin-left: 70px;
+   }
+
+   .products_info h2 {
+      margin: 14px 0 80px 0;
+   }
+
+   .container_info {
+      padding: 10px;
+   }
+
+   .creams,
+   .lotions {
+      width: 470px;
+   }
+
+   .woman {
+      width: 200px;
+      height: 210px;
+      margin-top: 130px;
+   }
+
+   .oil_face {
+      margin-left: 19px;
+   }
+
+   .oil_face p {
+      width: 273px;
+   }
+
+   .body_skin {
+      margin-right: 13px;
+   }
+
+   .chiinaa {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .odin {
+      text-align: center;
+   }
+
+   .plus_dva {
+      gap: 215px;
+   }
+
+   .plus_four {
+      gap: 122px;
+   }
+
+   .our_blog {
+      width: 500px;
+   }
+
+   .posts a {
+      margin-left: 170px;
+   }
+
+   .carousel_img {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .carousel_img img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 10px;
+   }
+
+   .carousel_img img:first-child {
+      border-radius: 16px;
+      width: 278px;
+      height: 278px;
+   }
+
+   input {
+      width: 260px;
+   }
+
+   .link {
+      width: 100%;
+      float: none;
+      padding: 0;
+   }
+
+   .for_two {
+      gap: 80px;
+   }
+}
+
+@media screen and (max-width:320px) {
+   .container {
+      padding: 0 15px;
+   }
+
+   .header {
+      gap: 4px;
+   }
+
+   .text {
+      flex-direction: initial;
+      gap: 0;
+   }
+
+   .menu_list {
+      position: relative;
+   }
+
+   .list {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: -150px;
+      padding: 20px;
+   }
+
+   .list img {
+      display: none;
+   }
+
+   .burger-menu-button {
+      font-size: 35px;
+      display: block;
+      position: absolute;
+      top: 67px;
+      left: 10px;
+      color: #351d68;
+   }
+
+   .burger-menu-button:hover+.list {
+      display: block;
+      padding: 8px 0;
+   }
+
+   .choice {
+      display: flex;
+      margin:-20px 0 0 70px;
+   }
+
+   .cart {
+      display: block;
+   }
+
+   h1 {
+      width: 270px;
+   }
+
+
+
+   .info p {
+      /* width: 300px; */
+      width: 260px;
+   }
+   .btn{
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+   }
+
+   .images_nav {
+      margin-top: 80px;
+   }
+
+   .images_nav p {
+      margin-bottom: 10px;
+   }
+
+   .images_nav a {
+      margin-right: 20px;
+   }
+
+   .images_nav a:last-child {
+      margin-left: 90px;
+   }
+
+   .man img {
+      width: 320px;
+   }
+
+   .story_1 p {
+      width: 300px;
+      margin: 0;
+   }
+
+   .clean_card,
+   .tone_card,
+   .soft_card {
+      width: 280px;
+      height: 420px;
+   }
+
+   .clean_card img {
+      width: 280px;
+   }
+
+   .moo {
+      width: 280px;
+   }
+
+   .moo a {
+      padding: 15px 65px;
+   }
+
+   .price p {
+      margin: 0;
+   }
+
+   .tone_card img {
+      width: 280px;
+   }
+
+   .soft_card img {
+      width: 280px;
+   }
+
+   .creams,
+   .lotions {
+      width: 280px;
+      background-size: contain;
+      height: 505px;
+   }
+
+   .woof {
+      margin-top: 20px;
+   }
+
+   .woof p {
+      padding: 0 10px;
+   }
+
+   .point {
+      width: 250px;
+   }
+
+   .circle_one,
+   .circle_two,
+   .circle_three {
+      margin: 0 0 0 80px;
+   }
+
+   .first_for_skin,
+   .second_for_skin {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 80px;
+   }
+
+   .woman {
+      margin: 0 0 0 50px;
+
+   }
+
+   .oil_face,
+   .body_skin {
+      margin: 0;
+      text-align: center;
+   }
+
+   .first_top,
+   .third_top {
+      width: 285px;
+      height: 287px;
+   }
+
+   .second_top {
+      height: 329px;
+      width: 290px;
+   }
+
+   .first_bottom,
+   .second_bottom {
+      height: 350px;
+      width: 280px;
+   }
+
+   .third_bottom {
+      height: 267px;
+      width: 290px;
+   }
+
+   .odin {
+      width: 280px;
+      margin-bottom: 50px;
+   }
+
+   .plus,
+   .plus_dva,
+   .plus_tri,
+   .plus_four,
+   .plus_five {
+      width: 270px;
+      gap: 10px;
+   }
+
+   .chiinaa {
+      padding: 115px 0 120px 0;
+   }
+
+   .our_blog {
+      text-align: center;
+      width: 290px;
+   }
+
+   .posts a {
+      margin-left: 60px;
+   }
+
+   .image,
+   .image_2,
+   .image_3 {
+      width: 280px;
+      padding: 24px 90px 218px 24px;
+   }
+
+   .choo {
+      width: 280px;
+   }
+
+   .more {
+      width: 250px;
+      padding: 0;
+   }
+   
+
+   .carousel_img img:first-child {
+      width: 230px;
+      height: 230px;
+   }
+
+   .carousel_img img:nth-child(5) {
+      width: 230px;
+      height: 230px;
+   }
+
+   .carousel_img img {
+      width: 230px;
+   }
+
+   #last_screen {
+      padding: 60px 0;
+   }
+
+   .forum {
+      padding-left: 20px;
+   }
+
+   .subscribe {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+   }
+
+   .subscribe a {
+      margin-right: 20px;
+   }
+
+   .links {
+      display: flex;
+      flex-direction: column;
+   }
+
+   .links {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 40px;
+   }
+
+   .last_text {
+      display: block;
+   }
+}
